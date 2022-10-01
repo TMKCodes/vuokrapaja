@@ -1,5 +1,5 @@
-# vuokrapaja
-Tämä on vuokrapaja.fi:n issue tracker. Täällä voit ilmoittaa virheistä joita löydät vuokrapaja.fi sivustosta. 
+# vuokrapaja.fi
+Tämä on vuokrapajan issue tracker. Täällä voit ilmoittaa virheistä joita löydät vuokrapaja.fi sivustosta. 
 
 1. Paina `Issues` yläriviltä.
 2. Paina vihreää `New issue`.
